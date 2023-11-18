@@ -8,7 +8,7 @@
 
 5. Personal Safety and Security: Our personal safety and security are currently not under threat.
 
-6. User Data Requests: We have not received broad requests for user data, and to our best knowledge, we do not possess such information at this time.
+6. User Data Requests: We have not received broad requests for non publicly available user data, and to our best knowledge, we do not possess private user information at this time.
 
 7. Policy on Associations with Risk Entities: Our commitment to ethical practices and legal compliance is reflected in our stringent policy regarding associations. Upon obtaining credible evidence of wrongdoing, especially when coupled with any lawful requests we receive, we sever all ties and support with any individuals, entities, or their affiliates who are subjects of such inquiries or investigations.
 
